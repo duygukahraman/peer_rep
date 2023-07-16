@@ -1,0 +1,16 @@
+2023-Jul-16-12:54:26,ETL Job Started
+2023-Jul-16-12:54:26,extract process started
+2023-Jul-16-12:54:38,extract process ended
+2023-Jul-16-12:54:41,transform process started
+2023-Jul-16-12:54:46,transform process ended
+2023-Jul-16-12:54:47,load process started
+2023-Jul-16-12:54:49,load process ended
+2023-Jul-16-12:54:51,ETL Job Ended
+2023-Jul-16-12:55:33,ETL Job Started
+2023-Jul-16-12:55:33,extract process started
+2023-Jul-16-12:55:48,extract process ended
+2023-Jul-16-12:55:48,transform process started
+2023-Jul-16-12:55:48,transform process ended
+2023-Jul-16-12:55:48,load process started
+2023-Jul-16-12:55:48,load process ended
+2023-Jul-16-12:55:48,ETL Job Ended
